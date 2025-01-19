@@ -41,13 +41,13 @@ Feel free to fork this repository, make changes, and submit pull requests. Pleas
 
 To contribute:
 
-1.Fork the repository
-2. Clone your fork: git clone https://github.com/your-username/Topsis-Tanisha-102203340.git
-3. Create a new branch: git checkout -b feature-branch
-4. Make your changes
-5. Commit your changes: git commit -m "Description of changes"
-6. Push to the branch: git push origin feature-branch
-7. Submit a pull request
+1. Fork the repository.
+2. Clone your fork: git clone https://github.com/your-username/Topsis-Tanisha-102203340.git.
+3. Create a new branch: git checkout -b feature-branch.
+4. Make your changes.
+5. Commit your changes: git commit -m "Description of changes".
+6. Push to the branch: git push origin feature-branch.
+7. Submit a pull request.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
