@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
   name = 'Topsis-Tanisha-102203340',         # How you named your package folder (MyLib)
-  packages = ['Topsis-Tanisha-102203340'],   # Chose the same as "name"
+  packages = ['topsis'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A Python package to perform TOPSIS analysis',   # Give a short description about your library
